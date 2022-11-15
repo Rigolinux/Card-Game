@@ -12,3 +12,8 @@ npm i
 ```
 npm run start
 ```
+
+## Requerimientos
+- Nodejs
+- npm
+- Expo
